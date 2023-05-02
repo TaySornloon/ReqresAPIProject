@@ -1,4 +1,4 @@
-package interview_test.runner;
+package reqresAPI.runner;
 
 public class TestFailRunner {
 }

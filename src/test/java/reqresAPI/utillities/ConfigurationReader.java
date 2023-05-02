@@ -1,4 +1,4 @@
-package interview_test.utillities;
+package reqresAPI.utillities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

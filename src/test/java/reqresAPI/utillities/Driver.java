@@ -1,4 +1,4 @@
-package interview_test.utillities;
+package reqresAPI.utillities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
